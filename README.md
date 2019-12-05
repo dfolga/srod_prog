@@ -1,7 +1,7 @@
 # srod_prog
 
 blablabla jakis inny test
-
+edytowane
 test linia dodatkowa
 
 linia jeszcze inna
