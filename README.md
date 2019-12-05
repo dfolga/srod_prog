@@ -1,2 +1,2 @@
 # srod_prog
-jakis inny test
+blablabla jakis inny test
