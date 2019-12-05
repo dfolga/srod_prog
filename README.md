@@ -3,7 +3,7 @@
 blablabla jakis inny test
 edytowane
 test linia dodatkowa
-
+costam
 linia jeszcze inna
 
 <<<<<<< HEAD
