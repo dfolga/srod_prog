@@ -1,2 +1,2 @@
 # srod_prog
-
+konflikt
