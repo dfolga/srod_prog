@@ -5,7 +5,7 @@ edytowane
 test linia dodatkowa
 
 linia jeszcze inna
-
+linia jakas
 <<<<<<< HEAD
 linia 798
 =======
