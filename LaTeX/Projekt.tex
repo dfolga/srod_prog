@@ -5,39 +5,107 @@
 
 \author{Damian Folga}
 
-\title{Metody przydzialania mandatów wyborczych.}
+\title{Metody przydzielania mandatów wyborczych.}
 
 \begin{document}
 
 \maketitle
 \tableofcontents
 \newpage
-\chapter{Pierwszy rozdział}
-\section{Pierwszy podrozdział}
-Treść pierwszego rozdziału.
-Creating a footnote is easy.\footnote{An example footnote.}
+\chapter{Metoda D'Hondta}
+\textbf{Metoda D’Hondta} (również: \textit{Jefferson’s method, Bader-Ofer method}) – metoda stosowana do podziału mandatów w systemach wyborczych opartych na proporcjonalnej reprezentacji z listami partyjnymi. Jej nazwa pochodzi od nazwiska belgijskiego matematyka Victora D’Hondta.
+\section{Podział mandatów}
+W metodzie tej dla każdego komitetu wyborczego, który przekroczył próg wyborczy, obliczane są kolejne ilorazy całkowitej liczby głosów uzyskanych przez dany komitet i kolejnych liczb naturalnych, czyli ilorazy wyborcze. O podziale miejsc pomiędzy komitetami decyduje wielkość obliczonych w ten sposób ilorazów. Można to przedstawić wzorem:
 
-\begin{tabular}{|r|l|} \hline
-7C0 & heksadecymalnie \\
-\hline \hline
-3700 & oktalnie \\
-\hline \hline
-11111000000 & binarnie \\
-\hline \hline
-1984 & dziesietnie \\ \hline
-
-\end{tabular}
-
-\section{Drugi podrozdział}
-\section{Trzeci podrozdział}
-\newpage
-\chapter{Drugi rozdział}
-\section{Pierwszy podrozdział}
 \begin{math}
- $$
-\lim_{x \rightarrow 0} \frac{\sin x}{x}=1
-$$
+I_i=\frac{G}{i}
+\end{math} \\
+gdzie:
+
+\begin{math}
+I_i-i
 \end{math}
+-ty iloraz wyborczy,
+
+\begin{math}
+G-
+\end{math}
+-całkowita liczba głosów oddana na dany komitet w wyborach,
+
+\begin{math}
+i-
+\end{math}
+liczba naturalna,
+\begin{math}
+i\geq{1}
+\end{math}
+
+Tak więc dla każdego komitetu liczba uzyskanych głosów jest dzielona kolejno przez 
+\begin{math} 1,2,3,\dots ,n\end{math}. W ten sposób uzyskuje się malejące wielkości 
+\begin{math}
+I
+\end{math}
+, które porównywane są następnie z wynikami wszystkich komitetów biorących udział w wyborach i szeregowane w kolejności od największej do najmniejszej. Mandaty przydziela się zgodnie z określoną w ten sposób kolejnością, poczynając od najwyższego wyniku do najniższego, aż do momentu, gdy liczba dostępnych miejsc zostanie wyczerpana.
+\newpage
+\section{Przykład}
+Mamy komitety A, B i C, które otrzymały kolejno 720, 300 i 480 głosów. Do obsadzenia jest 8 mandatów. \\ \\
+\textbf{1 krok}: obliczenie ilorazów \\ \\
+\begin{tabular}{|l|l|l|l|} \hline
+Dzielnik & Komitet A & Komitet B & Komitet C \\
+\hline
+1 & 720 (pierwszy mandat) & 300 (czwarty) & 480 (drugi) \\
+\hline
+2 & 360 (trzeci) & 150 & 240 (szósty) \\
+\hline
+3 & 240 (piąty) & 100 & 160 (ósmy) \\ 
+\hline
+4 & 180 (siódmy) & 75 & 120 \\ \hline
+5 & 144 & 60 & 96 \\
+\hline
+
+\end{tabular}\\ \\
+\textbf{2 krok}: ułożenie ilorazów w kolejności malejącej (w nawiasach komitet):
+\begin{enumerate}
+\item (A) – 720
+\item (C) – 480
+\item (A) – 360
+\item (B) – 300
+\item (A) – 240
+\item (C) – 240
+\item (A) – 180
+\item (C) – 160
+\end{enumerate} 
+itd. \\ \\
+W związku z tym, że do rozdzielenia jest 8 mandatów, 4 mandaty otrzymuje komitet A (ilorazy 720, 360, 240 i 180), 1 mandat – komitet B (iloraz 300) oraz 3 mandaty – komitet C (ilorazy 480, 240 i 160). \\ \\
+W przypadku gdyby kilka komitetów uzyskało takie same ilorazy stosuje się różne metody dodatkowego szeregowania. W Polsce wybrano następujący sposób – jeżeli kilka list uzyskało ilorazy równe ostatniej liczbie z liczb uszeregowanych w podany sposób, a list tych jest więcej niż mandatów do rozdzielenia, pierwszeństwo mają listy w kolejności ogólnej liczby oddanych na nie głosów. Gdyby na dwie lub więcej list oddano równą liczbę głosów, o pierwszeństwie rozstrzyga liczba obwodów głosowania, w których na daną listę oddano większą liczbę głosów.
+\section{Zbliżenie idealnej proporcjonalności}
+Doskonała proporcjonalność nie zawsze jest możliwa. Metody reprezentacji proporcjonalnej podchodzą do jej przybliżenia na różne sposoby, które implikują różne koncepcje nieproporcjonalności. Metoda D’Hondta minimalizuje największy współczynnik korzyści, 
+
+\begin{math}max_{k}w_{k}={\frac {m_{k}}{g_{k}}}\end{math}, \\ \
+gdzie: \\
+\begin{math}w_{k}-\end{math}współczynnik korzyści komitetu
+\begin{math}k,\end{math} \\
+\begin{math}m_{k}-\end{math}udział mandatów udzielonych do komitetu
+\begin{math}k,\end{math} \\
+\begin{math} m_{k}\in [0,1],\;\sum\limits _{k}m_{k}=1,\end{math} \\
+\begin{math}g_{k}-\end{math}udział głosów oddanych na komitet
+\begin{math}k,\end{math} w wyborach,\\
+\begin{math} g_{k}\in [0,1],\;\sum\limits_{k} g_{k}=1.\end{math}[1] \\
+Metoda D’Hondta dzieli głosy na dokładnie proporcjonalnie reprezentowane i niereprezentowane, minimalizując udział niereprezentowanych głosów 
+
+\begin{math}\pi ^{*}=1-{\frac {1}{\max _{k}w_{k}}}\end{math}[2] \\
+Niereprezentowany udział głosów komitetu jest 
+
+\begin{math} n_{k}=g_{k}-(1-\pi ^{*})m_{k},\;n_{k}\in [0,g_{k}],\sum _{k}\,n_{k}=\pi ^{*}\end{math}[2] \\ \\
+Przy minimalizacji ogólnej liczby niereprezentowanych głosów metoda D’Hondta bierze pod uwagę tylko największy współczynnik korzyści. Jeśli do oceny proporcjonalności stosuje się współczynnik korzyści, wynika to z tego że metoda D’Hondta faworyzuje duże ugrupowania w większym stopniu niż druga spośród najpopularniejszych metod przeliczania głosów – metoda Sainte-Laguë.
+\section{Stosowanie}
+Metoda D’Hondta jest najczęściej stosowaną metodą reprezentacji proporcjonalnej w wyborach do parlamentów narodowych[3]. Stosuje się ją przy podziale mandatów w wyborach parlamentarnych m.in. w Austrii, Finlandii, Izraelu, Holandii i Hiszpanii. W Polsce stosowano ją m.in. w parlamentarnych ordynacjach wyborczych II Rzeczypospolitej (do 1935 r.), a także w III Rzeczypospolitej (z wyłączeniem wyborów w 1991 r. oraz wyborów w 2001 r.) przy podziale mandatów do Sejmu oraz w wyborach samorządowych (do rad gmin powyżej 20 000 mieszkańców[4], rad powiatów oraz sejmików województw).
+
+W Izraelu metoda ta jest w użyciu od 1973, przy czym znana jest pod nazwą Bader-Ofer method od nazwisk parlamentarzystów, którzy zaproponowali jej wprowadzenie (Jochanan Bader i Awraham Ofer)[5].
+\newpage
+\chapter{Metoda}
+\section{Pierwszy podrozdział}
+
 
 \section{Drugi podrozdział}
 \section{Trzeci podrozdział}
@@ -50,24 +118,7 @@ $$
 \section{Trzeci podrozdział}
 Treść trzeciego rozdziału.
 \newpage
-\chapter{Czwarty rozdział}
-\section{Pierwszy podrozdział}
-\section{Drugi podrozdział}
-\section{Trzeci podrozdział}
-Treść czwartego rozdziału.
-\newpage
-\chapter{Piąty rozdział}
-\section{Pierwszy podrozdział}
-\section{Drugi podrozdział}
-\section{Trzeci podrozdział}
-Treść piątego rozdziału.
-\newpage
-\chapter{Szósty rozdział}
-\section{Pierwszy podrozdział}
-\section{Drugi podrozdział}
-\section{Trzeci podrozdział}
-Treść szóstego rozdziału.
-\newpage
+
 \begin{thebibliography}{99}
 \addcontentsline{toc}{section}{Bibliografia}
 \bibitem{pa} H.~Partl:

@@ -1,25 +1,14 @@
-\contentsline {chapter}{\numberline {1}Pierwszy rozdzia\IeC {\l }}{2}
-\contentsline {section}{\numberline {1.1}Pierwszy podrozdzia\IeC {\l }}{2}
-\contentsline {section}{\numberline {1.2}Drugi podrozdzia\IeC {\l }}{2}
-\contentsline {section}{\numberline {1.3}Trzeci podrozdzia\IeC {\l }}{2}
-\contentsline {chapter}{\numberline {2}Drugi rozdzia\IeC {\l }}{3}
-\contentsline {section}{\numberline {2.1}Pierwszy podrozdzia\IeC {\l }}{3}
-\contentsline {section}{\numberline {2.2}Drugi podrozdzia\IeC {\l }}{3}
-\contentsline {section}{\numberline {2.3}Trzeci podrozdzia\IeC {\l }}{3}
-\contentsline {chapter}{\numberline {3}Trzeci rozdzia\IeC {\l }}{4}
-\contentsline {section}{\numberline {3.1}Pierwszy podrozdzia\IeC {\l }}{4}
-\contentsline {section}{\numberline {3.2}Drugi podrozdzia\IeC {\l }}{4}
-\contentsline {section}{\numberline {3.3}Trzeci podrozdzia\IeC {\l }}{4}
-\contentsline {chapter}{\numberline {4}Czwarty rozdzia\IeC {\l }}{5}
-\contentsline {section}{\numberline {4.1}Pierwszy podrozdzia\IeC {\l }}{5}
-\contentsline {section}{\numberline {4.2}Drugi podrozdzia\IeC {\l }}{5}
-\contentsline {section}{\numberline {4.3}Trzeci podrozdzia\IeC {\l }}{5}
-\contentsline {chapter}{\numberline {5}Pi\IeC {\k a}ty rozdzia\IeC {\l }}{6}
-\contentsline {section}{\numberline {5.1}Pierwszy podrozdzia\IeC {\l }}{6}
-\contentsline {section}{\numberline {5.2}Drugi podrozdzia\IeC {\l }}{6}
-\contentsline {section}{\numberline {5.3}Trzeci podrozdzia\IeC {\l }}{6}
-\contentsline {chapter}{\numberline {6}Sz\IeC {\'o}sty rozdzia\IeC {\l }}{7}
-\contentsline {section}{\numberline {6.1}Pierwszy podrozdzia\IeC {\l }}{7}
-\contentsline {section}{\numberline {6.2}Drugi podrozdzia\IeC {\l }}{7}
-\contentsline {section}{\numberline {6.3}Trzeci podrozdzia\IeC {\l }}{7}
-\contentsline {section}{Bibliografia}{8}
+\contentsline {chapter}{\numberline {1}Metoda D'Hondta}{2}%
+\contentsline {section}{\numberline {1.1}Podział mandatów}{2}%
+\contentsline {section}{\numberline {1.2}Przykład}{3}%
+\contentsline {section}{\numberline {1.3}Zbliżenie idealnej proporcjonalności}{4}%
+\contentsline {section}{\numberline {1.4}Stosowanie}{4}%
+\contentsline {chapter}{\numberline {2}Metoda}{5}%
+\contentsline {section}{\numberline {2.1}Pierwszy podrozdział}{5}%
+\contentsline {section}{\numberline {2.2}Drugi podrozdział}{5}%
+\contentsline {section}{\numberline {2.3}Trzeci podrozdział}{5}%
+\contentsline {chapter}{\numberline {3}Trzeci rozdział}{6}%
+\contentsline {section}{\numberline {3.1}Pierwszy podrozdział}{6}%
+\contentsline {section}{\numberline {3.2}Drugi podrozdział}{6}%
+\contentsline {section}{\numberline {3.3}Trzeci podrozdział}{6}%
+\contentsline {section}{Bibliografia}{7}%
