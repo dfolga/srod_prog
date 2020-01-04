@@ -1,14 +1,15 @@
 \contentsline {chapter}{\numberline {1}Metoda D'Hondta}{2}%
-\contentsline {section}{\numberline {1.1}Podział mandatów}{2}%
-\contentsline {section}{\numberline {1.2}Przykład}{3}%
-\contentsline {section}{\numberline {1.3}Zbliżenie idealnej proporcjonalności}{4}%
-\contentsline {section}{\numberline {1.4}Stosowanie}{4}%
-\contentsline {chapter}{\numberline {2}Metoda}{5}%
-\contentsline {section}{\numberline {2.1}Pierwszy podrozdział}{5}%
-\contentsline {section}{\numberline {2.2}Drugi podrozdział}{5}%
-\contentsline {section}{\numberline {2.3}Trzeci podrozdział}{5}%
-\contentsline {chapter}{\numberline {3}Trzeci rozdział}{6}%
-\contentsline {section}{\numberline {3.1}Pierwszy podrozdział}{6}%
-\contentsline {section}{\numberline {3.2}Drugi podrozdział}{6}%
-\contentsline {section}{\numberline {3.3}Trzeci podrozdział}{6}%
-\contentsline {section}{Bibliografia}{7}%
+\contentsline {section}{\numberline {1.1}Victor D'Hondt}{2}%
+\contentsline {subsection}{\numberline {1.1.1}Publikacje}{3}%
+\contentsline {section}{\numberline {1.2}Podział mandatów}{3}%
+\contentsline {section}{\numberline {1.3}Przykład}{4}%
+\contentsline {section}{\numberline {1.4}Zbliżenie idealnej proporcjonalności}{5}%
+\contentsline {section}{\numberline {1.5}Stosowanie}{7}%
+\contentsline {chapter}{\numberline {2}Metoda Sainte-Laguë}{8}%
+\contentsline {section}{\numberline {2.1}Wykorzystywanie}{8}%
+\contentsline {section}{\numberline {2.2}Przykład}{9}%
+\contentsline {section}{\numberline {2.3}Implementacja w języku Python}{10}%
+\contentsline {chapter}{\numberline {3}Metoda Hare’a-Niemeyera}{11}%
+\contentsline {section}{\numberline {3.1}Przykład}{12}%
+\contentsline {section}{Spis rysunków}{13}%
+\contentsline {section}{Spis tabel}{13}%
