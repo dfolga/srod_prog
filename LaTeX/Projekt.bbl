@@ -1,8 +1,37 @@
 \begin{thebibliography}{1}
 
-\bibitem{wiki:3}
+\bibitem{tdos}
+{ main.knesset.gov.il }.
+\newblock The distribution of seats among the lists.
+
+\bibitem{uj}
+{ nauka.uj.edu.pl }.
+\newblock www.nauka.uj.edu.pl - nauka - uniwersytet jagielloński.
+\newblock [Online; accessed 10-October-2019].
+
+\bibitem{wiki:vd}
+{Victor D’Hondt}.
+\newblock [online], październik 2019.
+\newblock [dostęp: 2020-01-05 10:44Z].
+
+\bibitem{wiki:msl}
 {Metoda Sainte-Laguë}.
 \newblock [online], październik 2019.
 \newblock [dostęp: 2020-01-04 19:29Z].
+
+\bibitem{wiki:md}
+{Metoda D’Hondta}.
+\newblock [online], październik 2019.
+\newblock [dostęp: 2020-01-05 10:45Z].
+
+\bibitem{wiki:mhn}
+{Metoda Hare’a-Niemeyera}.
+\newblock [online], październik 2019.
+\newblock [dostęp: 2020-01-05 10:45Z].
+
+\bibitem{mhn}
+{www.algorytm.org}.
+\newblock Metoda hare-niemeyer'a - algorytmy i struktury danych, 2006.
+\newblock [Online; accessed 10-October-2019].
 
 \end{thebibliography}

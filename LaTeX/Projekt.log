@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.3)  4 JAN 2020 21:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.3)  5 JAN 2020 12:27
 entering extended mode
 **./Projekt.tex
 (Projekt.tex
@@ -486,23 +486,31 @@ LaTeX Info: Redefining \cite on input line 694.
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(Projekt.aux)
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tocbibind\tocbibin
+d.sty"
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (Projekt.aux)
 \openout1 = `Projekt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 ("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
@@ -574,28 +582,28 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 460.
 ) ABD: EveryShipout initializing macros
 LaTeX Font Info:    Trying to load font information for OML+plm on input line 2
-1.
+2.
 
 ("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/polski\omlplm.fd"
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 
-21.
+22.
 ("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/polski\omsplsy.fd"
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Trying to load font information for OMX+plex on input line 
-21.
+22.
  ("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/polski\omxplex.fd
 "
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <14.4> on input line 21.
+(Font)              <14.4> on input line 22.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 21.
+(Font)              <10> on input line 22.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 21.
+(Font)              <7> on input line 22.
  [1
 
 {C:/Users/damia/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -614,30 +622,37 @@ LaTeX Font Info:    External font `plex10' loaded for size
 
 ]
 Rozdzia\PlPrIeC {\l } 1.
+<k.jpg, id=13, 180.675pt x 238.8925pt>
+File: k.jpg Graphic file (type jpg)
+<use k.jpg>
+Package pdftex.def Info: k.jpg  used on input line 29.
+(pdftex.def)             Requested size: 72.2687pt x 95.5553pt.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 27.
+(Font)              <5> on input line 32.
 [2
 
-]
+ <./k.jpg>]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
-1.
- ("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+6.
+
+("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
- [3]
-Underfull \hbox (badness 10000) in paragraph at lines 72--92
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 77--97
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--92
+Underfull \hbox (badness 10000) in paragraph at lines 77--97
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--92
+Underfull \hbox (badness 10000) in paragraph at lines 77--97
 
  []
 
@@ -665,45 +680,50 @@ Missing character: There is no ! in font nullfont!
 Missing character: There is no 6 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--113
+Underfull \hbox (badness 10000) in paragraph at lines 107--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--113
+Underfull \hbox (badness 10000) in paragraph at lines 107--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--119
 
  []
 
 [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 128--133
+Underfull \hbox (badness 10000) in paragraph at lines 135--140
 
  []
 
 
-Overfull \hbox (14.80762pt too wide) in paragraph at lines 128--133
+Overfull \hbox (14.80762pt too wide) in paragraph at lines 135--140
 \OT4/cmr/m/n/12 Przy mi-ni-ma-li-za-cji ogól-nej licz-by nie-re-pre-zen-to-wa-n
 ych gªo-sów me-to-da D'Hondta
  []
 
 [6]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 135.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 142.
  [7]
 Rozdzia\PlPrIeC {\l } 2.
-[8
 
-]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 152.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--169
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--169
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+[8
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 160--179
 
  []
 
@@ -732,12 +752,12 @@ Missing character: There is no 6 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 [9]
 LaTeX Font Info:    Trying to load font information for OT4+cmtt on input line 
-191.
+201.
 
 ("C:\Users\damia\AppData\Local\Programs\MiKTeX 2.9\tex/latex/polski\ot4cmtt.fd"
 File: ot4cmtt.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-Overfull \hbox (11.3752pt too wide) in paragraph at lines 204--204
+Overfull \hbox (11.3752pt too wide) in paragraph at lines 214--214
 []\OT4/cmtt/m/n/12 V = [liczba gªosów dla A,liczba gªosów dla B,liczba gªosów d
 la C][] 
  []
@@ -747,7 +767,7 @@ Rozdzia\PlPrIeC {\l } 3.
 [11
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
@@ -790,10 +810,10 @@ Missing character: There is no 0 in font nullfont!
 
 ] (Projekt.aux) ) 
 Here is how much of TeX's memory you used:
- 13229 strings out of 492484
- 267330 string characters out of 3121602
- 302776 words of memory out of 3000000
- 17280 multiletter control sequences out of 15000+200000
+ 13335 strings out of 492484
+ 268841 string characters out of 3121602
+ 304843 words of memory out of 3000000
+ 17380 multiletter control sequences out of 15000+200000
  17332 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,9n,64p,1086b,867s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -819,9 +839,9 @@ ocal/Programs/MiKTeX 2.9/fonts/type1/public/pl/plsy10.pfb><C:/Users/damia/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plsy8.pfb><C:/Users/damia/Ap
 pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/plti12.pfb><C:/Users/dami
 a/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/pl/pltt12.pfb>
-Output written on Projekt.pdf (16 pages, 142411 bytes).
+Output written on Projekt.pdf (16 pages, 153548 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
+ 124 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
