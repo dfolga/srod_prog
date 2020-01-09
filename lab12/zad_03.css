@@ -1,0 +1,7 @@
+.kontakt-list {width: 200px;margin-left: auto;margin-right: auto;line-height: 1.5rem;}
+.kontakt-list>h3 {text-align: center;}
+.kontakt {border: 1px solid black;}
+div.kontakt>span {display: block;}
+span.imie {border-bottom: 1px solid black;border-top: 1px solid black;font-size: 16px;
+}
+span.mail {color:palevioletred; font-style: oblique;}
