@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    
+</head>
+<body>
+    <h1>Kalkulator BMI</h1>
+    <p>Waga (w kg)</p>
+    <input type="text" id="waga">
+    <p>Wzorst (w cm)</p>
+    <input type="text" id="wzrost">
+    <p id="result"></p>
+    <button onclick="myFunction()">Sprawdź </button>   
+    <script>
+        function myFunction() {
+          var waga = parseFloat(document.getElementById("waga").value);
+          var wzrost = parseInt(document.getElementById("wzrost").value);
+          var wynik;
+          wynik=waga/(wzrost/100*wzrost/100);
+          wynik=wynik.toFixed(1);
+          if(wynik<18.5){
+            bmi="niedowaga"
+          }
+          else if(wynik<=24.9 && wynik>=18.5){
+            bmi="waga prawidłowa" 
+          }
+          else if(25<=wynik && wynik<=29.9){
+            bmi="nadwaga" 
+          }
+          else if(wynik>30){
+            bmi="otyłość" 
+          }
+          else{
+            bmi="Podaj prawidłowe dane" 
+          }
+
+          document.getElementById("result").innerHTML = bmi;
+        }
+        </script>
+
+    
+</body>
+</html>
